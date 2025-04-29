@@ -129,7 +129,7 @@ This firmware and documentation are proprietary to Kaveesha Abeysundara. No reus
 ## Contact
 
 **Author:** Kaveesha Abeysundara (SID: 201578163)  
-**Supervisor:** Krzysztof Kubiak  
+
 
 Open an issue at [espnowreceivercode issues](https://github.com/kav12ab/espnowreceivercode/issues).
 
