@@ -1,6 +1,5 @@
 # Transmitter Module: ESP-NOW Reciever Code  
 
-Arduino firmware for the ESP-NOW Receiver module in an automated flow rack tracking system. This module collects sensor data via ESP-NOW, processes it, and forwards it over UART to the Wi-Fi transmitter.  
 
 Owner: **Kaveesha Abeysundara** (SID: 201578163)    
 
@@ -10,6 +9,9 @@ School of Mechanical Engineering
 University of Leeds  
 LS2 9JT
 
+Arduino firmware for the ESP-NOW Receiver module in an automated flow rack tracking system. This module collects sensor data via ESP-NOW, processes it, and forwards it over UART to the Wi-Fi transmitter.  
+
+[![License: All Rights Reserved](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg)](LICENSE.md) <!-- Optional: You can create a LICENSE.md file -->
 
 
 ## Table of Contents
