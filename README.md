@@ -116,9 +116,7 @@ Open an issue at [espnowreceivercode issues](https://github.com/kav12ab/espnowre
 
 
 
-## Repository Structure
 
-Below is a table of the key files and their purposes:
 
 
 
