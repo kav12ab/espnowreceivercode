@@ -92,6 +92,12 @@ espnowreceivercode/
 ├── .h and .cpp files                     # Custom libraries to support main program functionality
 └── README.md                             # This file
 ```
+Given below is a outline of each core code component and its functionality
+| File | Purpose |
+|------|---------|
+| `receiver.ino` | Initializes serial and ESP-NOW, merges incoming sensor data with predefined values, and forwards configuration updates via serial. |
+| `ESPNOWHandler.h` / `ESPNOWHandler.cpp` | Initializes ESP-NOW communication, handling incoming sensor data, dynamic peer addition, and sending configuration responses. |
+| `SensorData.h` / `SensorData.cpp` | Define sensor data structures and provide helper functions to manage and look up sensor information. |
 
 ## License
 
@@ -104,4 +110,29 @@ This firmware and documentation are proprietary to Kaveesha Abeysundara. No reus
 **Author:** Kaveesha Abeysundara (SID: 201578163)  
 
 Open an issue at [espnowreceivercode issues](https://github.com/kav12ab/espnowreceivercode/issues).
+
+
+
+
+## Repository Structure
+
+Below is a table of the key files and their purposes:
+
+
+
+## License
+
+**All rights reserved.**
+
+This firmware and documentation are proprietary to Kaveesha Abeysundara. No reuse, modification, or distribution is allowed without permission.
+
+## Contact
+
+**Author:** Kaveesha Abeysundara (SID: 201578163)  
+**Supervisor:** Krzysztof Kubiak  
+
+Open an issue at [espnowreceivercode issues](https://github.com/kav12ab/espnowreceivercode/issues).
+
+
+
 
